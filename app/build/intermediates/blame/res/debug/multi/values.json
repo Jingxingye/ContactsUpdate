@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 36,
+                    "endOffset": 87
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 92,
+                    "endColumn": 35,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 36,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 34,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 43,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 36,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 57,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 55,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 52,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 41,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 52,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 56,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "C:\\Users\\11933\\AndroidStudioProjects\\ContactsUpdate\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

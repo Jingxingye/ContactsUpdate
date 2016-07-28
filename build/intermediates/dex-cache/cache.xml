@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1c051516e721455aaeb77e130a4a56f360bd06d8">
+        <dex dex="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\build\intermediates\pre-dexed\debug\instant-run_1df57b489205e2879916fa0f24c17dd9b473f86c.jar" />
+    </item>
+    <item
+        jar="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1a54197abe433ae0c4f1d68a02a0ed90cae377b5">
+        <dex dex="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a1b7c4b398fd51900e0326b1732f9176e166dd6e.jar" />
+    </item>
+
+</items>

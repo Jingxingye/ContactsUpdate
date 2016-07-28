@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\src\main\assets"><file name="db/commonnum.db" path="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\src\main\assets\db\commonnum.db"/></source><source path="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\11933\AndroidStudioProjects\ContactsUpdate\app\src\debug\assets"/></dataSet></merger>
